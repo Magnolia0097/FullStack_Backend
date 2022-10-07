@@ -1,6 +1,7 @@
 # FullStack_Backend
 
 - 이 파일은 Intellij 무료버전으로 작성되었습니다
+--- 반드시 이 파일은 'FullStack_Frontend' 파일을 같이 받아주세요
 
 ### 이 파일은 해당 옵션을 클릭후 아래의 과정을 거쳐야 합니다
 - ![image](https://user-images.githubusercontent.com/110005222/194504750-17f79b36-6170-4dbc-9b37-22160c9a0f00.png)
